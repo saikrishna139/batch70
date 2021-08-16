@@ -1,0 +1,15 @@
+-> git status (Now it will shows all files in workspace)
+All workspace file names in Red colour
+-> git add filename
+(or)
+-> git add . ( here . indicates all files in workspace)
+-> git status
+Now all files in Index/staging area
+All index/staging area files in Green colour
+-> git commit -m "sample message"
+All files commited from index area to local repository
+-> git status (here it showing nothing to commit, working tree clean)
+-> git log
+git log is command here it will displays all log files
+
+How to creatre Github repository
